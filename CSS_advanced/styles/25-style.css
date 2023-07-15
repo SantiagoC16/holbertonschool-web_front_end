@@ -89,9 +89,8 @@ a:active {
 .button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
-    background: var(--button-hover-background);
+    background-color: var(--button-hover-background);
 }
-  
 [data-section-theme="dark"] {
     --button-color: var(--color-white);
  }
